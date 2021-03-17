@@ -1,6 +1,6 @@
 # The Corridor
 
-[The Corridor](https://github.com/xavimarin35/CorridorPrototype) is a Level Design prototype under the topic "Corridor" made by Joan Barduena and Xavi Marín, students of [CITM](https://www.citm.upc.edu/) in Barcelona during our [Game Design and Development Bachelor's Degree](https://www.citm.upc.edu/cat/estudis/grau-videojocs-bcn/).
+[The Corridor](https://github.com/xavimarin35/CorridorPrototype) is a Level Design prototype under the topic "Corridor" made by Joan Barduena and Xavi Marín, students of [CITM](https://www.citm.upc.edu/) in Barcelona during our [Game Design and Development Bachelor's Degree](https://www.citm.upc.edu/cat/estudis/grau-videojocs-bcn/), with [Unreal Engine 4](https://www.unrealengine.com/en-US/).
 
 ## Usage
 
