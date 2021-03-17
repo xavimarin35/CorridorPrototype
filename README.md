@@ -19,7 +19,7 @@ IMPORTANT: *Do not modify, change or add any folder or file (unless specified) a
 	
 ### Xavi Marín
 
-- Github: [XaviMarin35](https://github.com/xavimarin35)
+- Github: [xavimarin35](https://github.com/xavimarin35)
 - LinkedIn: [Xavi Marín](https://www.linkedin.com/in/xavi-marin-sola/)
 
 ## Contact
